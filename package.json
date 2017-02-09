@@ -1,0 +1,23 @@
+{
+  "name": "buildnpm_test",
+  "version": "1.0.0",
+  "description": "This npm package is merely a test.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luke-cuevas/npmtesting.git"
+  },
+  "keywords": [
+    "npm",
+    "test"
+  ],
+  "author": "luke-cuevas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luke-cuevas/npmtesting/issues"
+  },
+  "homepage": "https://github.com/luke-cuevas/npmtesting#readme"
+}
